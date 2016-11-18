@@ -1,0 +1,137 @@
+DEBUG:root:MediaCloud object: <mediacloud.api.MediaCloud object at 0x10231cdd0>
+DEBUG:root:Topic input to getSentenceCount function: clinton
+DEBUG:root:Dates input to getSentenceCount function: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'clinton', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=clinton&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 16
+DEBUG:root:Topic input to getSentenceCount function: trump
+DEBUG:root:Dates input to getSentenceCount function: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'trump', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=trump&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 16
+DEBUG:root:MediaCloud object: <mediacloud.api.MediaCloud object at 0x104af1dd0>
+DEBUG:root:Topic input to getSentenceCount function: clinton
+DEBUG:root:Dates input to getSentenceCount function: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'clinton', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=clinton&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 16
+DEBUG:root:Topic input to getSentenceCount function: trump
+DEBUG:root:Dates input to getSentenceCount function: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'trump', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=trump&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 16
+DEBUG:root:MediaCloud object: <mediacloud.api.MediaCloud object at 0x107b1bdd0>
+DEBUG:root:Topic input to getSentenceCount function: clinton
+DEBUG:root:Dates input to getSentenceCount function: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'clinton', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=clinton&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 16
+DEBUG:root:Topic input to getSentenceCount function: trump
+DEBUG:root:Dates input to getSentenceCount function: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'trump', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=trump&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 16
+DEBUG:root:MediaCloud object: <mediacloud.api.MediaCloud object at 0x102c27dd0>
+INFO:root:Entering getSentenceCount function
+DEBUG:root:Topic argument: clinton
+DEBUG:root:Date arguments: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'clinton', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=clinton&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 16
+INFO:root:Entering getSentenceCount function
+DEBUG:root:Topic argument: trump
+DEBUG:root:Date arguments: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'trump', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=trump&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 16
+DEBUG:root:MediaCloud object: <mediacloud.api.MediaCloud object at 0x10f66ddd0>
+INFO:root:Entering getSentenceCount function
+DEBUG:root:Topic argument: trump
+DEBUG:root:Date arguments: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'trump', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=trump&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 16
+INFO:root:Entering getSentenceCount function
+DEBUG:root:Topic argument: clinton
+DEBUG:root:Date arguments: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'clinton', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=clinton&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 16
+DEBUG:root:MediaCloud object: <mediacloud.api.MediaCloud object at 0x10d8f2dd0>
+INFO:root:Entering getSentenceCount function
+DEBUG:root:Topic argument: clinton
+DEBUG:root:Date arguments: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'clinton', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=clinton&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 16
+INFO:root:Entering getSentenceCount function
+DEBUG:root:Topic argument: trump
+DEBUG:root:Date arguments: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'trump', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=trump&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 16
+DEBUG:root:MediaCloud object: <mediacloud.api.MediaCloud object at 0x100463dd0>
+INFO:root:Entering getSentenceCount function
+DEBUG:root:Topic argument: clinton
+DEBUG:root:Date arguments: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'clinton', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=clinton&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 16
+INFO:root:Entering getSentenceCount function
+DEBUG:root:Topic argument: obama
+DEBUG:root:Date arguments: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'obama', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=obama&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 15
+DEBUG:root:MediaCloud object: <mediacloud.api.MediaCloud object at 0x10b876dd0>
+INFO:root:Entering getSentenceCount function
+DEBUG:root:Topic argument: hillary clinton
+DEBUG:root:Date arguments: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'hillary clinton', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=hillary+clinton&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 16
+INFO:root:Entering getSentenceCount function
+DEBUG:root:Topic argument: obama
+DEBUG:root:Date arguments: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'obama', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=obama&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 15
+DEBUG:root:MediaCloud object: <mediacloud.api.MediaCloud object at 0x109d76dd0>
+INFO:root:Entering getSentenceCount function
+DEBUG:root:Topic argument: harvard
+DEBUG:root:Date arguments: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'harvard', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=harvard&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 14
+INFO:root:Entering getSentenceCount function
+DEBUG:root:Topic argument: yale
+DEBUG:root:Date arguments: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'yale', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=yale&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 14
+DEBUG:root:MediaCloud object: <mediacloud.api.MediaCloud object at 0x10fa2add0>
+INFO:root:Entering getSentenceCount function
+DEBUG:root:Topic argument: harvard
+DEBUG:root:Date arguments: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'harvard', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=harvard&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 14
+INFO:root:Entering getSentenceCount function
+DEBUG:root:Topic argument: yale
+DEBUG:root:Date arguments: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'yale', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=yale&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 14
+DEBUG:root:MediaCloud object: <mediacloud.api.MediaCloud object at 0x10c83bdd0>
+INFO:root:Entering getSentenceCount function
+DEBUG:root:Topic argument: harvard
+DEBUG:root:Date arguments: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'harvard', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=harvard&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 14
+INFO:root:Entering getSentenceCount function
+DEBUG:root:Topic argument: yale
+DEBUG:root:Date arguments: 2016-09-01, 2016-10-01
+DEBUG:mediacloud.api:query GET to https://api.mediacloud.org/api/v2/sentences/count with {'q': 'yale', 'fq': ['publish_date:[2016-09-01T00:00:00Z TO 2016-10-01T00:00:00Z}', 'tags_id_media:1'], 'split': 0, 'split_daily': 0}
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
+DEBUG:requests.packages.urllib3.connectionpool:"GET /api/v2/sentences/count?q=yale&fq=publish_date%3A%5B2016-09-01T00%3A00%3A00Z+TO+2016-10-01T00%3A00%3A00Z%7D&fq=tags_id_media%3A1&split=0&key=c8089139c012edf7dd14661df58f0ec2db439ad1cc8410f74ae84dd32fe2d9b3&split_daily=0 HTTP/1.1" 200 14

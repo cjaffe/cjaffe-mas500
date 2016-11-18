@@ -1,0 +1,7 @@
+[MainSettings]
+api-key: <your API key here> 
+
+[QuerySettings]
+date1: <add your first date here in this format: yyyy-mm-dd>
+date2: <add your second date here in this format: yyyy-mm-dd>
+sources: tags_id_media:1
