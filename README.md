@@ -8,7 +8,7 @@ In this project, play around with the MediaCloud API and run different queries o
 
 * Download the Github repo
 * From the HW1 project directory, run `pip install -r requirements.txt`
-* Copy `hw1/settings.template` to `hw1/settings.ini` and add your Media Cloud API key in appropriate location
+* Copy `hw1-11-17-16/settings.template` to `hw1-11-17-16/settings.ini` and add your Media Cloud API key in appropriate location
 
 ### To Run:
 
@@ -22,10 +22,10 @@ In this project, build upon HW1 to add proper logging, unit tests, and command l
 
 * Download the Github repo
 * From the HW2 project directory, run `pip install -r requirements.txt`
-* Copy `hw2/settings.template` to `hw2/settings.ini` and add your Media Cloud API key in appropriate location
+* Copy `hw2-11-22-16/settings.template` to `hw2-11-22-16/settings.ini` and add your Media Cloud API key, and desired query date range in the appropriate locations
 
 ### To Run:
 
-* Media Query script: `python hw2.py <topic1> <topic2>`
+* Media Query script: `python hw2-run-with-args.py <topic1> <topic2>`
 * Unit tests: `python hw2-test.py`
 * Logs can be found in `hw2.log`
