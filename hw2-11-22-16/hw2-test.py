@@ -5,16 +5,20 @@
 #	Unit tests for hw2.py
 #######################################
 
-import unittest, datetime, sys
-from hw2 import getSentenceCount
+import unittest
+from hw2 import MediaCloud
 
 class Hw2Test(unittest.TestCase):
 
     def setUp(self):
-        self.results = getSentenceCount('clinton', datetime.date( 2016, 9, 1), datetime.date( 2016, 10, 1) )
+        self.mc = MediaCloud()
+
+    def testCreate(self):
+        assert self.mc is not None
 
     def testCount(self):
-        assert self.results is not None
+        self.count = self.mc.getSentenceCount('clinton')
+        assert self.count > 0
 
 # if this file is run directly, run the tests
 if __name__ == "__main__":
