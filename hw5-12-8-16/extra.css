@@ -1,0 +1,36 @@
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+  pointer-events: none;
+}
+
+p {
+	font-size: 18px;
+}
+
+#description {
+	width: 800px;
+}
+
+#bday {
+	text-align: center;
+	font-size: 170px;
+}
+
+#subtext {
+	text-align: center;
+	font-size: 100px;
+}
+
+.letter {
+	color: black;
+}
+
+#bulldog {
+	width: 200px;
+	float: right;
+}

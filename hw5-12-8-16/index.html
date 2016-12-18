@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+    <title>Serial readings</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="d3-tip.js"></script>
+    <link rel="stylesheet" href="extra.css">
+    <script src="neighborhoods.js"></script>
+    <script src="streets.js"></script>
+</head>
+<body>
+<div class="container" id="map" style="margin: 50px">
+  
+      <div  class="col-md-9">
+        <h2>Road Quality Data Collected by Bicycle - Cambridge, MA</h2>
+        <p id="description">Data visualization of road quality data in Cambridge, MA (currently using dummy data). Click on a street to see data points for that street.</p>
+      </div>
+      <div id="tab-data" class="col-md-3" style="display:none">
+        <h3>Data</h3>
+        <div id="data"></div>
+        <button onclick="clearData()">Clear</button>
+      </div>
+    </div>
+<script src="map.js"></script>
+</body>
+</html>
