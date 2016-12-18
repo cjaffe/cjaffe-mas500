@@ -18,9 +18,7 @@ var g3 = svg.append( "g" );
 /* Initialize tooltip */
 var tip = d3.tip().attr('class', 'd3-tip').html(function(d) { 
   var imuVal = d.imu1 + d.imu2;
-  return "<p>Road Quality Index: " + d.value + 
-      "</p><p>IMU Readings: " + imuVal +
-      "</p><p>Grip Reading: " + d.grip + "</p>";
+  return "<p>Road Quality Index: " + d.value;
 });
 
 /* Invoke the tip in the context of your visualization */
